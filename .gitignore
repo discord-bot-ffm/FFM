@@ -1,4 +1,5 @@
 
 /target
+.cursorignore
 .shuttle*
 Secrets*.toml
